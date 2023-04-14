@@ -79,8 +79,10 @@
           <version>2.22.1</version>
 
           <configuration>
-
-          </configuration>
+         <suiteXmlFiles>
+         <suiteXmlFile>testng.xml</suiteXmlFile>
+</suiteXmlFiles>
+</configuration>
 
         </plugin>
         <plugin>
